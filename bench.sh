@@ -118,16 +118,16 @@ speed() {
 	fi
 	chmod a+rx speedtest.py
 
-  speed_test '' 'Normal Node'
-	speed_test '10690' 'PT. Cakra Lintas Nusantara  BL'
-	speed_test '7378' 'PT Mora Telematika Indonesia BTM'
-	speed_test '797' 'Biznet Networks JKT'
-	speed_test '7582' "PT. Telekomunikasi Indonesia JKT"
-	speed_test '57592' 'PT. Telekomunikasi Indonesia JYP'
+  	speed_test '' 'Normal Node'
+	speed_test '10690' 'Cakra BL'
+	speed_test '7378' 'Moratel BTM'
+	speed_test '797' 'Biznet JKT'
+	speed_test '7582' "Telkom JKT"
+	speed_test '57592' 'Telkom JYP'
 	speed_test '12532' 'Citranet  DIY'
-	speed_test '7369' "PT Mora Telematika Indonesia MDN"
+	speed_test '7369' "Moratel MDN"
 	speed_test '13342' 'Dashnet PKU'
-	speed_test '4958' 'PT. Datautama Dinamika SBY'
+	speed_test '4958' 'Datautama SBY''
 	 
 	rm -rf speedtest.py
 }
