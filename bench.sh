@@ -122,12 +122,12 @@ speed() {
 	speed_test '10690' 'Cakra BL'
 	speed_test '7378' 'Moratel BTM'
 	speed_test '797' 'Biznet JKT'
-	speed_test '7582' "Telkom JKT"
+	speed_test '7582' 'Telkom JKT'
 	speed_test '57592' 'Telkom JYP'
 	speed_test '12532' 'Citranet  DIY'
-	speed_test '7369' "Moratel MDN"
+	speed_test '7369' 'Moratel MDN'
 	speed_test '13342' 'Dashnet PKU'
-	speed_test '4958' 'Datautama SBY''
+	speed_test '4958' 'Datautama SBY'
 	 
 	rm -rf speedtest.py
 }
