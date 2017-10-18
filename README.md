@@ -1,1 +1,1 @@
-# indobench.sh
+# IndoBench
